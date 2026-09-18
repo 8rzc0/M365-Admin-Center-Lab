@@ -24,7 +24,6 @@ The M365 Admin Center Lab was created to build hands-on experience with Microsof
 
 ## Environment
 
-| | |
 |---|---|
 | **Tenant** | Microsoft 365 Business Premium trial |
 | **Identity** | Microsoft Entra ID, cloud-only |
