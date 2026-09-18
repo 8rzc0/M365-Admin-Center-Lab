@@ -2,7 +2,7 @@
 
 ## Objective
 
-The M365 Admin Center Lab was created to build hands-on experience with Microsoft 365 tenant administration and common Tier 1 IT support tasks. The lab documents practical work in the Microsoft 365 and Microsoft Entra admin centers, including creating and licensing users, bulk provisioning from CSV, managing groups and shared mailboxes, delegating administrative roles, resetting passwords, and enabling tenant-wide MFA.
+The M365 Admin Center Lab was created to build hands-on experience with Microsoft 365 administration and common Tier 1 IT support tasks. The lab documents practical work in the Microsoft 365 and Microsoft Entra admin centers, including creating and licensing users, bulk provisioning from CSV, managing groups and shared mailboxes, delegating administrative roles, resetting passwords, and enabling tenant-wide MFA.
 
 ### Skills Learned
 
