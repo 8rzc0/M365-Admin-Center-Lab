@@ -23,12 +23,12 @@ The M365 Admin Center Lab was created to build hands-on experience with Microsof
 - Admin center CSV bulk-import template
 
 ## Environment
-| | |
-|---|---|
-| **Tenant** | Microsoft 365 Business Premium trial |
-| **Identity** | Microsoft Entra ID, cloud-only |
-| **Admin portals** | Microsoft 365 admin center, Microsoft Entra admin center |
-| **Objects in tenant** | 8 users, 1 group, 1 shared mailbox, 1 contact |
+| **Component** | **Detail** |
+| ------------- | ---------- |
+| Tenant | Microsoft 365 Business Premium trial |
+| Identity | Microsoft Entra ID, cloud-only |
+| Admin portals | Microsoft 365 admin center, Microsoft Entra admin center |
+| Objects in tenant | 8 users, 1 group, 1 shared mailbox, 1 contact |
 
 ## Lab Implementation
 
