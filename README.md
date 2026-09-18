@@ -98,4 +98,4 @@ Reset the password on an existing user account through the admin center.
 
 ## Outcome
 
-The tenant finished with eight user accounts, all assigned Microsoft 365 Business Premium licenses, a populated sales group, a shared IT mailbox with delegated read access, a directory contact, and MFA enforced tenant-wide through Security Defaults.
+The tenant finished with 8 user accounts, all assigned Microsoft 365 Business Premium licenses, a populated sales group, a shared IT mailbox with delegated read access, a directory contact, and MFA enforced tenant-wide through Security Defaults.
